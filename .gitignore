@@ -10,6 +10,16 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+[Aa]ssets/[Aa]nimations/
+[Aa]ssets/[Ss]treaming[Aa]ssets/
+[Aa]ssets/[Mm]odels/
+[Aa]ssets/2[Dd][Uu]nity[Cc]han/
+[Aa]ssets/[Uu][Mm]otion[Ee]ditor/
+[Aa]ssets/[Uu][Mm]otion[Ee]xamples/
+[Aa]ssets/u[Ll]ip[Ss]ync-main/
+[Aa]ssets/[Uu]nity[Cc]han/
+[Aa]ssets/[Tt]oon/
+[Aa]ssets/[Ee]xternal[Aa]ssets/
 *.log
 
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
